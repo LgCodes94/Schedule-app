@@ -6,3 +6,4 @@ Say goodbye to scheduling conflicts and missed appointments—start using our we
 
 https://lgcodes94.github.io/Schedule-app/
 
+<img width="794" alt="image" src="https://github.com/LgCodes94/Schedule-app/assets/104605514/897139de-6acf-41e2-8673-1b6ff2dd84e6">
